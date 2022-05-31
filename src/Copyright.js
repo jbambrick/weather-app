@@ -10,7 +10,7 @@ class Copyright extends React.Component {
     render() {
         return (
             <div className="copyright">
-                © {this.getYear()} Tŝilhqotin National Government
+                © {this.getYear()} Tŝilhqot’in National Government
             </div>
         )
     }
